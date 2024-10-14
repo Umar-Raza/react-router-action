@@ -1,4 +1,4 @@
-# react router action
+# React router action
  In this repository, yoou will see into the practical implementation of React Router Action functions with the Form component from React Router.
 
 ## Installation
